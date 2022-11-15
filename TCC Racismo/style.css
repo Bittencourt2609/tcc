@@ -1,0 +1,24 @@
+body {
+    background-image: url(teste2.webp);
+    background-repeat: repeat-y;
+    background-position: center;
+    background-size: cover;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+p {
+    color: white;
+    text-align: center;
+}
+a {
+    color: white;
+}
+.container {
+    background-color: black;
+}
+
+.container2{
+text-align: center;
+}
